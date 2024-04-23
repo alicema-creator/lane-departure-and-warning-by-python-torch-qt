@@ -13,7 +13,7 @@
 **依赖库：torch**  
 
 ## 运行效果
-<img src="https://github.com/alicema-creator/lane-departure-and-warning-by-python-torch/blob/main/main/screenshot/1.png" width="500"></a>
+<img src="https://github.com/alicema-creator/lane-departure-and-warning-by-python-torch/blob/main/screenshot/1.png" width="500"></a>
 
 
 
